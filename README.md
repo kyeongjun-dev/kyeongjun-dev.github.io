@@ -193,6 +193,7 @@ This theme is licensed under the [MIT license](https://opensource.org/licenses/m
 bundle
 bundle add webrick
 bundle exec jekyll serve --trace
+```
 <!-- External links -->
 
 [jekyll]: https://jekyllrb.com/
