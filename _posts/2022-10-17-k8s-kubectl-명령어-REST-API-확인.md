@@ -3,7 +3,7 @@ layout: post
 categories: kubernetes
 ---
 ## 동기
-프로그래밍적으로 쿠버네티스 클러스터 내의 리소스의 annotation을 동적으로 변경해줘야할 필요가 있어서 방법을 찾던 중, REST API를 이용해 클러스터를 제어하는 방법을 찾게 됨.
+프로그래밍적으로 쿠버네티스 클러스터 내의 리소스의 annotation을 동적으로 변경해줘야할 필요가 있어서 방법을 찾던 중, REST API를 이용해 클러스터를 제어하는 방법을 찾게 됨. ([access-cluster-api](https://kubernetes.io/docs/tasks/administer-cluster/access-cluster-api/))
 
 
 ## 목적
